@@ -20,7 +20,7 @@ export default function AboutUsHero (){
         />
       </div>
 
-      <div className='absolute top-[95px] left-[0px] w-[360px] flex flex-col items-center justify-start p-4 box-border gap-6 text-center text-26xl lg:hidden'>
+      <div className='absolute top-[95px] left-[calc(50%_-_179px)] w-[360px] flex flex-col items-center justify-start p-4 box-border gap-6 text-center text-26xl lg:hidden'>
         <div className='self-stretch flex flex-col items-center justify-center gap-4'>
           <div className='relative leading-[64px] font-semibold'>About us</div>
           <div className='self-stretch relative text-lg tracking-[-0.02em] leading-[32px] font-medium text-grey-colors-gray2 text-left'>

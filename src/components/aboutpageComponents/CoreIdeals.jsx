@@ -61,7 +61,7 @@ export default function CoreIdeals() {
         </div>
       </div>
 
-      <div className='absolute top-[1019px] left-[1px] w-full max-w-[359px] flex flex-col items-center justify-center p-4 box-border text-center lg:hidden'>
+      <div className='absolute top-[1019px] left-[calc(50%_-_179px)] w-full max-w-[359px] flex flex-col items-center justify-center p-4 box-border text-center lg:hidden'>
         <div className='flex-1 flex flex-col items-start justify-start gap-6'>
           <div className='flex flex-col items-center justify-center gap-8'>
             <div className='flex flex-col items-center justify-center gap-8 w-full'>
