@@ -143,3 +143,26 @@ export const testimonials = [
     company: 'Google',
   },
 ];
+
+export const teams = [
+  {
+    image: user1,
+    name: 'Dr Jibril Abdulsalam',
+    position: 'CEO',
+  },
+  {
+    image: user2,
+    name: 'Aisha Abdulsalam',
+    position: 'CFO',
+  },
+  {
+    image: user3,
+    name: 'Dr from South africa',
+    position: 'COO',
+  },
+  {
+    image: user4,
+    name: 'Nadia Abdulsalam',
+    position: 'CTO',
+  },
+];

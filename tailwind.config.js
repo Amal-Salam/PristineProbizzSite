@@ -41,14 +41,22 @@ export default {
       lg: '18px',
       '16xl': '35px',
       xs: '12px',
-      '2xl':'32px',
-      '3xl':'35px',
+      '2xl': '32px',
+      '3xl': '35px',
       '5xl': '24px',
       '26xl': '45px',
       inherit: 'inherit',
     },
     perspective: {
       400: '400px',
+    },
+    screens: {
+      xs: '320px', // Extra Small devices (phones)
+      sm: '640px', // Small devices (large phones)
+      md: '768px', // Medium devices (tablets)
+      lg: '1024px', // Large devices (desktops)
+      xl: '1280px', // Extra large devices (large desktops)
+      '2xl': '1536px', // 2XL devices (extra large desktops)
     },
   },
   corePlugins: {

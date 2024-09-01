@@ -8,7 +8,7 @@ import HomepageBlog from '../components/homepageComponents/blogComponent';
 export default function Homepage(){
     return (
       <>
-        <div className='w-full relative bg-black-colors-white h-[4429px] overflow-hidden text-left text-16xl text-brand-colors-primary font-m-semibold'>
+        <div className='w-full relative bg-black-colors-white h-[7139px] lg:h-[4429px] overflow-hidden text-left text-16xl text-brand-colors-primary font-m-semibold'>
           <Header />
           <HomepageHero />
           <HomepageAbout />
