@@ -1,4 +1,4 @@
-import Hero from '../../assets/processEngineering/ProEngHero.png'
+import Hero from '../../assets/processEngineering/proEngHero.png'
 export default function ProEngHero (){
     return (
       <>
